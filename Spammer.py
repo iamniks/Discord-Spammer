@@ -1,5 +1,5 @@
 import discum
-bot = discum.Client(token='')
+bot = discum.Client(token='ODk1OTk2MDQ2NDc4NTY1Mzc2.YWAxCQ.Y6BM4g9IOIgmXtfJz0GQbGOxmnY')
 
 @bot.gateway.command
 def memberTest(resp):
